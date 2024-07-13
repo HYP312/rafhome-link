@@ -28,7 +28,7 @@ function App() {
             </div>
             
             <div className="bg_content rd_12 p_8">
-            <h4>All U Need Is Here   </h4>
+            <h4>All You Need Is Here   </h4>
             </div>
           </div>
           <div className="sosial">
