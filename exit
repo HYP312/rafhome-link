@@ -1,0 +1,15 @@
+[33mcommit 29101ef8c1905bda02b6056f98e4fee0b78724eb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Omega Yorha <65727048+HYP312@users.noreply.github.com>
+Date:   Sat Jul 13 12:46:49 2024 +0700
+
+    first commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 58beeac..18c2899 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -68,3 +68,4 @@[m [mThis section has moved here: [https://facebook.github.io/create-react-app/docs/d[m
+ ### `npm run build` fails to minify[m
+ [m
+ This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)[m
+[32m+[m[32m"# rafhome-link"[m[41m [m
